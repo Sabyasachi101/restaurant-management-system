@@ -8,6 +8,8 @@
 
 ## 🌟 Overview
 The Chef's Track has been completely redesigned into a **luxury 5-star fine dining Indian restaurant experience**. The system features a highly polished customer-facing ordering interface with cinematic food photography and a robust backend to handle full restaurant operations.
+## Deployment Link
+https://the-chef-s-track.vercel.app/
 
 ## 📋 Features
 - **Customer Side (Luxury UI)**: Browse a curated menu of authentic Indian dishes (Appetizers, Main Course, Breads, Desserts, Beverages), real-time stock-aware cart, place orders, and view detailed dynamic bills.
